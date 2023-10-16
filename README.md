@@ -1,4 +1,4 @@
-# Python_Libearies
+# Python-Libearies
 
 ## How to install Pandas on MAC OS
   1. python3 -m venv [folder_name]
